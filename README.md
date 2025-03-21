@@ -40,9 +40,9 @@
 
 
  
-[`QR SCANNER`](https://andbad-qr-k71b.onrender.com/qr)
+[`QR SCANNER`](https://)
 
-[`PAIRING CODE`](https://andbad-qr-k71b.onrender.com)
+[`PAIRING CODE`](https://)
  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -56,7 +56,7 @@
 
 2. `If You Have a Heroku Account`
 
-  - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Mrandbad/ANDBAD-MD-V1"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://dashboard.heroku.com/new?template=https://github.com/spider660/spider-md/tree/main"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 #### DEPLOY ON RENDER 
