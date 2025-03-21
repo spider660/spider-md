@@ -1,76 +1,75 @@
-# 𝗥𝗔𝗩𝗘𝗡-𝗕𝗢𝗧
+# SPIDER-BOT
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS  IS+RAVEN-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+NICK;PUBLIC+RELEASED; ...;TEAM RAVEN-𝙼𝙳." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=WELCOME TO+SPIDER-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+SPIDER;PUBLIC+RELEASED; ...;TEAM WEBX." alt="Typing SVG" /></a>
   </p>
-  
-<p align="center">
 
-[![Nick Hunter](https://github.com/HunterNick2.png?lenght=50width=50)](https://github.com/HunterNick2)
+<div align="center">
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+<p align="center">                                                    ŞƤƗĐ€Ř-ΜĐ
+
+
 </p>
+<p align="center"> 
+  <a href="https://whatsapp.com/channel/0029VajQn6YF1YlPE0XgBC2m">
+    <img alt=Support height="390" src="https://media.giphy.com/media/A9BPNdWYbGFoK5oFKA/giphy.gif?cid=ecf05e476o40r0k5bfil7ph31stkxjoigk0vutxcbrdljwfz&ep=v1_gifs_search&rid=giphy.gif&ct=g"> 
+    </p>
+ 
+ 
+### 🌟 Connect With Me
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=RAVEN+WHATSAPP+BOT" alt="">
+  <a href="https://api.whatsapp.com/send?phone=254114660061&text=Hello+SPIDEY+I NEED A BOT"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"></a>
+  <a href="https://instagram.com/_its.silva"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram.png" width="11%"></a>
+  <a href="https://www.facebook.com/profile.php?"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="12%"></a>
+  <a href="https://x.com/"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%"></a>
 </p>
-<p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-𝗡𝗶𝗰𝗸_𝗛𝘂𝗻𝘁𝗲𝗿-blue.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/HunterNick2?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/HunterNick2?label=Followers&style=social"></a>
-<a href="https://github.com/HunterNick2/RAVEN-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HunterNick2/RAVEN-BOT?&style=social"></a>
-<a href="https://github.com/HunterNick2/RAVEN-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/HunterNick2/RAVEN-BOT?style=social"></a>
-<a href="https://github.com/HunterNick2/RAVEN-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HunterNick2/RAVEN-BOT?label=Watching&style=social"></a>
-</p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines= SPIDER-𝚳𝐃-+𝚳𝚫𝐃𝚵+𝚰𝚴+KENYA+😎" alt="Typing SVG" /></a>
+
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+#### SETUP 
+
+
+[`FORK`](https://github.com/spider660/spider-md/fork)
+
+
+ 
+[`QR SCANNER`](https://andbad-qr-k71b.onrender.com/qr)
+
+[`PAIRING CODE`](https://andbad-qr-k71b.onrender.com)
  
 
-## ```CONTACT ME```
-
-<p align="center">
-
-<a href="https://api.whatsapp.com/send?phone=254114660061&text=Hello+N꙰i꙰c꙰k꙰༆"><img src="https://img.shields.io/badge/Contact 𝗡𝗜𝗖𝗞༆-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/Baileys)***
+#### DEPLOY TO HEROKU 
+1. `If You Don't Have An Account On Heroku`
 
-## FEATURES
-This is a highly customisable simple whatsapp bot with group management features and few media commands and chatgpt courtesy of Openai.
+- <a align="center"><a href="https://signup.heroku.com">
+ <img src="https://img.shields.io/badge/Create%20Account%20Now-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-Our AI features use random APIs to run, so sometimes they may be down.
+2. `If You Have a Heroku Account`
 
-# SET-UP
-
-## ` Fork this repo`
-<p align="centre">
-<a href="https://github.com/HunterNick2/RAVEN-BOT/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="FORK RAVEN-BOT" width="160"></a>
-<p/>
-  
-Linking/Pairing:
-## ` Pair onrender`
-<p align="centre">
-<a href="https://pairing-raven.onrender.com"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-green?style=for-the-badge&logo=render"></a>
-<p/>
-            
-
-###  𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨:
+  - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Mrandbad/ANDBAD-MD-V1"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/HunterNick2/RAVEN-BOT&template=https://github.com/HunterNick2/RAVEN-BOT.git)***
- 
+#### DEPLOY ON RENDER 
+1. `If You Don't Have An Account On Render`
+- <a href="https://dashboard.render.com/register"><img src="https://img.shields.io/badge/CREATE AN ACCOUNT NOW-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
-    
+2. `If You Have an account on Render`
+- <a href="https://render.com"><img title="Deploy Now" src="https://img.shields.io/badge/DEPLOY NOW-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
-- Fill in the required variables into your hosting site for bot to work.
- </h2>
-     
-
-    
- 
-
-
-
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## License
 
-[MIT License](https://github.com/HunterNick2/RAVEN-BOT/blob/main/LICENSE)
+[MIT License](https://github.com/spider660/spider-md/blob/main/LICENSE)
 
-Copyright (c) 2025 RAVEN-BOT 
-
+Copyright (c) 2024 SPIDER-MD
